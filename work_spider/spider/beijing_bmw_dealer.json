@@ -1,0 +1,1498 @@
+{
+  "responseBody": {
+    "outlets": [
+      {
+        "id": "51",
+        "brand": "1",
+        "dealerId": "39",
+        "dpNo": "35271",
+        "cbuNo": "35271",
+        "ckdNo": "35272",
+        "nz": "北京宝泽行汽车销售服务有限公司",
+        "ne": "Beijing Baozehang Automotive Sales & Service Co., Ltd",
+        "az": "北京市丰台区西三环南路59号 邮编100071",
+        "ae": "No. 59, West 3rd Ring South Road, Fengtai District, Beijing City 100071",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-5806 1666",
+        "fax": "010-59735900",
+        "em": null,
+        "ws": "http://www.bzh.bmw.com.cn",
+        "wb": "http://weibo.com/bjbaozehang",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.3168882469,
+        "ltb": 39.8712814522,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-5806 1699;010-5806 1555"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 15201591424 / 道路救援: 15201591424"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "136 8320 3981"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-5806 1617"
+          },
+          {
+            "id": "8",
+            "nz": "明悦晚间服务",
+            "ne": "NIGHT_SERVICE",
+            "code": "07",
+            "ctno": null
+          },
+          {
+            "id": "10",
+            "nz": "M展区",
+            "ne": "M_SECTOR",
+            "code": "06",
+            "ctno": null
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "9",
+          "charVal": "5S",
+          "textZh": "5S",
+          "textEn": "5S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "06",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "169",
+        "brand": "1",
+        "dealerId": "137",
+        "dpNo": "36150",
+        "cbuNo": "36150",
+        "ckdNo": "36153",
+        "nz": "北京星德宝汽车销售服务有限公司",
+        "ne": "Beijing Xingdebao Automobile Sales & Service Co., Ltd.",
+        "az": "北京市朝阳区高碑店乡白家楼8号 邮编100024",
+        "ae": "No. 8,  White House, Gaobeidian Township, Chaoyang District, Beijing, 100024",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-8582 3333",
+        "fax": "010-8583 0003",
+        "em": null,
+        "ws": "http://www.greenga.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.5459074604,
+        "ltb": 39.9351343739,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-8582 3333-1"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6580 0911"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": " 事故救援热线:13161669595 / 道路救援热线:13161669595"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "9",
+          "charVal": "5S",
+          "textZh": "5S",
+          "textEn": "5S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "121",
+        "brand": "1",
+        "dealerId": "93",
+        "dpNo": "34281",
+        "cbuNo": "34281",
+        "ckdNo": "34282",
+        "nz": "北京宝诚百旺汽车销售服务有限公司",
+        "ne": "Beijing Baocheng Baiwang Automotive Sales& Service Co., Ltd.",
+        "az": "海淀区西北旺镇百旺绿谷汽车园F2地块 邮编：100094",
+        "ae": "F2 Baiwang Green Valley Automobile Park, Haidian Area 100094",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010－62826789",
+        "fax": "010－62837000",
+        "em": null,
+        "ws": "http://www.bjbaozen.bmw.com.cn",
+        "wb": "http://weibo.com/bjbaozen",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.2595374333,
+        "ltb": 40.0566057093,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 13167545895 / 道路救援: 15699781195"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "138 1037 6134"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-6283 7013"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "41381",
+        "brand": "1",
+        "dealerId": "10703",
+        "dpNo": "42415",
+        "cbuNo": "42415",
+        "ckdNo": "42435",
+        "nz": "北京宝晋行汽车销售服务有限公司",
+        "ne": "Beijing Baojinhang Automobile Sales & Services Co.,Ltd.",
+        "az": "北京市昌平区北七家镇瑶光路8号，102209",
+        "ae": "No.8, Yaoguang Road, Beiqijia Town, Changping District, Beijing, 102209",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-8191 2333",
+        "fax": null,
+        "em": null,
+        "ws": "http://www.bjbaojin.bmw.com.cn  ",
+        "wb": "https://weibo.com/u/6450638125 ",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.429763,
+        "ltb": 40.12595,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-8191 2777 "
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-8191 2350  "
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "186 1290 7030 "
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "010-8191 2777 "
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "04"
+        ]
+      },
+      {
+        "id": "36459",
+        "brand": "1",
+        "dealerId": "10505",
+        "dpNo": "40570",
+        "cbuNo": "40570",
+        "ckdNo": "40592",
+        "nz": "北京宝信行汽车销售服务有限公司",
+        "ne": "Beijing Baoxinhang Automotive Sales & Service Co., Ltd.",
+        "az": "北京市朝阳区将台乡安家楼西十里67号   100016",
+        "ae": "No.67, Xishili Anjialou, Jiangtai Village, Chaoyang District, Beijing City   100016",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-84323333",
+        "fax": null,
+        "em": null,
+        "ws": "http://www.bjbaoxinhang.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.495646,
+        "ltb": 39.964458,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-8432 3232"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "04",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "42661",
+        "brand": "1",
+        "dealerId": "10750",
+        "dpNo": "42972",
+        "cbuNo": "42972",
+        "ckdNo": "42997",
+        "nz": "北京博得宝汽车销售服务有限公司",
+        "ne": "Beijing Bodebao Automotive Sales & Service Co., Ltd.",
+        "az": "北京市西城区德胜门外教场口街4号，100120",
+        "ae": "No. 4 Jiaochangkou Street, Deshengmen Wai, Xicheng District, Beijing, 100120",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-85558888",
+        "fax": "010-85558890",
+        "em": null,
+        "ws": "http://www.bodebao.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.389014,
+        "ltb": 39.959481,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-8555 8888"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-8555 8866"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 18510689993 / 道路救援: 18510689993"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "54672",
+        "brand": "1",
+        "dealerId": "11012",
+        "dpNo": null,
+        "cbuNo": "45333",
+        "ckdNo": "45337",
+        "nz": "北京博瑞宝汽车销售服务有限公司",
+        "ne": "Beijing Boruibao Automotive Sales & Service Co., Ltd.",
+        "az": "北京市丰台区西罗园南里44号, 100068",
+        "ae": "No. 44, Xiluoyuan Nanli, Fengtai District, Beijing City, 100068",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-87839999",
+        "fax": null,
+        "em": null,
+        "ws": "www.boruibao.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.400226,
+        "ltb": 39.861521,
+        "eRetail": false,
+        "priBizs": [
+
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "04"
+        ]
+      },
+      {
+        "id": "1",
+        "brand": "1",
+        "dealerId": "1",
+        "dpNo": "29388",
+        "cbuNo": "29388",
+        "ckdNo": "29389",
+        "nz": "北京晨德宝汽车销售服务有限公司",
+        "ne": "Beijing Chendebao Automotive Sales& Service Co., Ltd.",
+        "az": "北京市朝阳区金乡东苇路北京金港展览展示有限公司C区10号1001 邮编100018",
+        "ae": "1001, No.10, Area C, Beijing Goldenport Expo Co., Ltd, North Dongwei Road, Jinzhanxiang, Chaoyang District, Beijing 100018",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-8479 5222",
+        "fax": "010-8433 4348",
+        "em": null,
+        "ws": "http://www.yanbao.bmw.com.cn",
+        "wb": "http://weibo.com/bjyanbao",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.5699760796,
+        "ltb": 40.0235960082,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-8479 5188"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 18611275305 / 道路救援: 13910969989"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "139 1138 3656"
+          },
+          {
+            "id": "3",
+            "nz": "小钣喷",
+            "ne": "PANEL_BEATER",
+            "code": "01",
+            "ctno": "010-6782 1666"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-8479 5232"
+          },
+          {
+            "id": "10",
+            "nz": "M展区",
+            "ne": "M_SECTOR",
+            "code": "06",
+            "ctno": null
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "06",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "50353",
+        "brand": "1",
+        "dealerId": "10964",
+        "dpNo": "44365",
+        "cbuNo": "44365",
+        "ckdNo": "44376",
+        "nz": "北京汇宝行汽车销售服务有限公司",
+        "ne": "Beijing Huibaohang Automotive Sales & Service Co., Ltd.",
+        "az": "北京市房山区阎村镇阎村桥东京周公路南侧, 102400",
+        "ae": "South of Jingzhou Road, Yancun Bridge East, Yancun Town, Fangshan District, Beijing City, 102400",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-5994 3555",
+        "fax": "010-50866333",
+        "em": null,
+        "ws": "http://www.bjhbh.bmw.com.cn",
+        "wb": "http://weibo.com/bmwhbh",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.106312,
+        "ltb": 39.725486,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-5994 3555"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-50866333"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "13331190003"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "010-59943545"
+          },
+          {
+            "id": "3",
+            "nz": "小钣喷",
+            "ne": "PANEL_BEATER",
+            "code": "01",
+            "ctno": "010-59943574"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-5994 3555"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "201",
+        "brand": "1",
+        "dealerId": "164",
+        "dpNo": "28400",
+        "cbuNo": "28400",
+        "ckdNo": "28421",
+        "nz": "北京京宝行汽车销售服务有限公司",
+        "ne": "Beijing Jingbaohang Automotive Sales & Service Co., Ltd",
+        "az": "北京市海淀区闵庄路19号 邮编100195",
+        "ae": "No.19 Minzhuang Road, Haidian District, Beijing100195",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-5872 8888",
+        "fax": "010-5872 8895",
+        "em": null,
+        "ws": "http://www.jingbaohang.bmw.com.cn",
+        "wb": "http://weibo.com/bmwjbh",
+        "moFrF": "8:30",
+        "moFrT": "17:30",
+        "satF": "8:30",
+        "satT": "17:30",
+        "sunF": "8:30",
+        "sunT": "17:30",
+        "lnb": 116.2542806638,
+        "ltb": 39.9797454602,
+        "eRetail": true,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-5872 8811"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 18911228658 / 道路救援: 13601189878"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "138 1083 9778"
+          },
+          {
+            "id": "3",
+            "nz": "小钣喷",
+            "ne": "PANEL_BEATER",
+            "code": "01",
+            "ctno": "010-5872 8888"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-5872 8898"
+          },
+          {
+            "id": "8",
+            "nz": "明悦晚间服务",
+            "ne": "NIGHT_SERVICE",
+            "code": "07",
+            "ctno": null
+          }
+        ],
+        "bpid": "00010055",
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "49532",
+        "brand": "1",
+        "dealerId": "10944",
+        "dpNo": "44211",
+        "cbuNo": "44211",
+        "ckdNo": "44213",
+        "nz": "北京骏宝行汽车销售服务有限公司",
+        "ne": "Beijing Junbaohang Automobile Sales & Service Co., Ltd.",
+        "az": "北京市石景山区时代花园南路30号,100043",
+        "ae": "No. 30 Shidai Huayuan South Road, Shijingshan District, Beijing City, 100043",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-68866777",
+        "fax": "010-68861919",
+        "em": null,
+        "ws": "http://www.beijing-junbaohang.bmw.com.cn",
+        "wb": "http://weibo.com/beijingjunbaohang",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.207612,
+        "ltb": 39.924156,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-6886 6777"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6886 6777"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "185 1828 5657"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "04",
+          "15",
+          "06",
+          "08"
+        ]
+      },
+      {
+        "id": "27736",
+        "brand": "1",
+        "dealerId": "10157",
+        "dpNo": "37929",
+        "cbuNo": "37929",
+        "ckdNo": "37942",
+        "nz": "北京美宝行汽车销售服务有限公司",
+        "ne": "Beijing Meibaohang Automotive Sales & Services Co.,Ltd",
+        "az": "北京市顺义区仁和镇西环路99号院-4",
+        "ae": "No.99, Xihuan Road, Renhe County, Shunyi District, Beijing",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-8750-3392",
+        "fax": "010-8750-3585",
+        "em": "yuboyuan@bjmbh.bmw.com.cn",
+        "ws": null,
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.635298,
+        "ltb": 40.102072,
+        "eRetail": false,
+        "priBizs": [
+
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "04"
+        ]
+      },
+      {
+        "id": "173",
+        "brand": "1",
+        "dealerId": "141",
+        "dpNo": "36131",
+        "cbuNo": "36131",
+        "ckdNo": "36133",
+        "nz": "北京市华德宝汽车销售服务有限公司",
+        "ne": "Beijing City Huadebao Automotive Sales & Service Co., Ltd",
+        "az": "北京市朝阳区建国路52号， 邮编：100025",
+        "ae": "No. 52, Jianguo Road, Chaoyang District Beijing, China. 100025",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-8573 9999",
+        "fax": "010-8578 7100",
+        "em": null,
+        "ws": "http://www.huadebao.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.52175064501,
+        "ltb": 39.913908640477,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "137 1857 2035"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "4",
+        "brand": "1",
+        "dealerId": "2",
+        "dpNo": "10082",
+        "cbuNo": "26162",
+        "ckdNo": "28170",
+        "nz": "北京燕德宝汽车销售有限公司",
+        "ne": "Beijing Yan De Bao Automotive Sales Co., Ltd.",
+        "az": "北京经济技术开发区宏达北路26号 邮编100176",
+        "ae": "No.26 Hongda Rd N., Beijing Economic & Technical Devp Zone, Beijing 100176",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-6782 1666",
+        "fax": "010-6788 2848",
+        "em": null,
+        "ws": "http://www.yanbao.bmw.com.cn",
+        "wb": "http://weibo.com/bjyanbao",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.51155732105,
+        "ltb": 39.807889144312,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6782 1618"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "010-6782 1666"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "186 1382 2105"
+          },
+          {
+            "id": "3",
+            "nz": "小钣喷",
+            "ne": "PANEL_BEATER",
+            "code": "01",
+            "ctno": "010-6782 1666"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-6782 1666"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "189",
+        "brand": "1",
+        "dealerId": "156",
+        "dpNo": "28401",
+        "cbuNo": "28401",
+        "ckdNo": "28427",
+        "nz": "北京盈之宝汽车销售服务有限公司",
+        "ne": "Beijing Yingzhibao Automotive Sales & Service Co., Ltd",
+        "az": "北京市朝阳区利泽东二路二号 邮编:100102",
+        "ae": "No. 2, Li Ze Dong Er Road,North 5th Ring Road,Chaoyang District,Beijing 100102",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-6478 8880",
+        "fax": "010-6439 8500",
+        "em": null,
+        "ws": "http://www.yingzhibao.bmw.com.cn",
+        "wb": "http://weibo.com/yzbsales",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.490356,
+        "ltb": 40.018016,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6478 8880-125;010-6498 8880-201"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 13522048337 / 道路救援: 13522048337"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "186 0116 5612"
+          },
+          {
+            "id": "3",
+            "nz": "小钣喷",
+            "ne": "PANEL_BEATER",
+            "code": "01",
+            "ctno": "010-6498 8880"
+          },
+          {
+            "id": "4",
+            "nz": "大客户",
+            "ne": "CORPORATE_SALES",
+            "code": "03",
+            "ctno": "010-6478 8880-114"
+          },
+          {
+            "id": "8",
+            "nz": "明悦晚间服务",
+            "ne": "NIGHT_SERVICE",
+            "code": "07",
+            "ctno": null
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "29372",
+        "brand": "1",
+        "dealerId": "10298",
+        "dpNo": "38406",
+        "cbuNo": "38406",
+        "ckdNo": "38417",
+        "nz": "北京运通嘉宝汽车销售服务有限公司",
+        "ne": "Beijing Wintop Jiabao Automotive Sales & Service Co. ,Ltd",
+        "az": "北京市顺义区赵全营镇昌金路赵全营段231号6号楼101  101322",
+        "ae": "101, Building 6, No. 231, Zhaoquanying Section, Changjin Road, Zhaoquanying Town,Shunyi District, Beijing City  101322",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-61447777",
+        "fax": null,
+        "em": null,
+        "ws": "http://www.yuntongjiabao.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.51774,
+        "ltb": 40.220306,
+        "eRetail": true,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-6144 7777"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6144 7699"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 13693103921 / 道路救援: 010-61447733"
+          }
+        ],
+        "bpid": "00204176",
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "25951",
+        "brand": "1",
+        "dealerId": "10056",
+        "dpNo": "36896",
+        "cbuNo": "36896",
+        "ckdNo": "36903",
+        "nz": "北京运通兴宝汽车销售服务有限公司",
+        "ne": "Beijing Yuntong Xingbao Automotive Sales & Service Co.,Ltd",
+        "az": "北京市大兴区西红门镇中鼎路19号，100176",
+        "ae": "No.19,Zhongding Road,Xihongmen County,Daxing District,Beijing City.100176",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-69286777",
+        "fax": null,
+        "em": null,
+        "ws": "http://www.ytxb.bmw.com.cn",
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.430235,
+        "ltb": 39.740939,
+        "eRetail": true,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-6928 6777"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6928 3320"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 13552650552 / 道路救援: 18800069286"
+          },
+          {
+            "id": "1",
+            "nz": "贷款购车",
+            "ne": "FINANCIAL",
+            "code": "12",
+            "ctno": "139 1007 6348"
+          }
+        ],
+        "bpid": "00200938",
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03",
+          "04",
+          "15",
+          "05",
+          "08",
+          "20"
+        ]
+      },
+      {
+        "id": "37750",
+        "brand": "1",
+        "dealerId": "10542",
+        "dpNo": "41051",
+        "cbuNo": "41051",
+        "ckdNo": "41055",
+        "nz": "北京正通宝泽行汽车销售有限公司",
+        "ne": "Beijing Zhengtong Baozehang Automotive Sales Co., Ltd.",
+        "az": "北京市通州区梨园镇云景东路488号     101121",
+        "ae": "No.488, Yunjing East Road, Tongzhou District, Beijing City, 1011211",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-80556366",
+        "fax": "010-80556333",
+        "em": null,
+        "ws": null,
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.66856,
+        "ltb": 39.87185,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "7",
+            "nz": "销售热线 ",
+            "ne": "SALES",
+            "code": "09",
+            "ctno": "010-8055 6366"
+          },
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-8055 6366"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "186 1127 7930"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "1",
+          "charVal": "4S",
+          "textZh": "4S",
+          "textEn": "4S",
+          "display": 1
+        },
+        "serviceCodes": [
+          "04",
+          "08"
+        ]
+      },
+      {
+        "id": "43277",
+        "brand": "1",
+        "dealerId": "10797",
+        "dpNo": "28400",
+        "cbuNo": "43184",
+        "ckdNo": "43185",
+        "nz": "北京京宝行汽车服务有限公司",
+        "ne": "Beijing Jingbaohang Automotive Service Co., Ltd.",
+        "az": "北京市海淀区学院路34号院1号楼A-1，100110",
+        "ae": "A-1, Building No.1, Yard No.34, XueyuanRoad, HaidianDistrict, Beijing, 100110",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-62335888",
+        "fax": null,
+        "em": null,
+        "ws": "http://www.jingbaohang.bmw.com.cn",
+        "wb": "http://weibo.com/bmwjbh",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.359467,
+        "ltb": 39.99334,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6233 5888"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "136 0118 9878"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "10",
+          "charVal": "FLC",
+          "textZh": "城市快修店",
+          "textEn": "FLC",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11"
+        ]
+      },
+      {
+        "id": "192",
+        "brand": "1",
+        "dealerId": "157",
+        "dpNo": "33386",
+        "cbuNo": "33386",
+        "ckdNo": "34167",
+        "nz": "北京盈之宝北苑路汽车维修服务有限公司",
+        "ne": "Beijing Yingzhibao Beiyuan RD. Automotive Service Co.,Ltd",
+        "az": "北京朝阳区北苑路安惠里5区10号 邮编100101",
+        "ae": "No. 10, 5 Qu Anhuili, Beiyuan Road,Chaoyang District, Beijing 100101",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-64988880-109",
+        "fax": "010-6489 1095",
+        "em": null,
+        "ws": "http://www.yingzhibao.bmw.com.cn",
+        "wb": "http://weibo.com/yzbsales",
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.42289,
+        "ltb": 39.996691,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "2",
+            "nz": "预约快修",
+            "ne": "FAST_LANE",
+            "code": "11",
+            "ctno": "010-6498 8880-168;010-6498 8880-170"
+          },
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "185 0030 2639"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "10",
+          "charVal": "FLC",
+          "textZh": "城市快修店",
+          "textEn": "FLC",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11"
+        ]
+      },
+      {
+        "id": "10614",
+        "brand": "1",
+        "dealerId": "10206",
+        "dpNo": "36557",
+        "cbuNo": "36557",
+        "ckdNo": "36572",
+        "nz": "北京卡森汽车服务有限公司",
+        "ne": "Beijing Carson Automobile service Co., Ltd.",
+        "az": "北京市海淀区杏石口路16号",
+        "ae": "No.16, Xingshikou Road, Haidian district, Beijing",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "010-8848 0000",
+        "fax": null,
+        "em": null,
+        "ws": null,
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.266678,
+        "ltb": 39.951601,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "18612509057"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "19",
+          "charVal": "BMW ST",
+          "textZh": "授权维修站",
+          "textEn": "BMW ST",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11"
+        ]
+      },
+      {
+        "id": "10616",
+        "brand": "1",
+        "dealerId": "10278",
+        "dpNo": "38046",
+        "cbuNo": "38046",
+        "ckdNo": "38049",
+        "nz": "北京翼翔行汽车销售服务有限公司",
+        "ne": "Beijing Yixianghang Automotive Sales & Service Co., Ltd",
+        "az": "北京市朝阳区王四营乡马房寺村334号",
+        "ae": "334# Mafangsi Village, Wangsiying Town, Chaoyang District, Beijing",
+        "pv": "ccccc679541",
+        "ct": "n1229917373",
+        "tel": "+86 010-87390088",
+        "fax": null,
+        "em": null,
+        "ws": null,
+        "wb": null,
+        "moFrF": null,
+        "moFrT": null,
+        "satF": null,
+        "satT": null,
+        "sunF": null,
+        "sunT": null,
+        "lnb": 116.54043,
+        "ltb": 39.876275,
+        "eRetail": false,
+        "priBizs": [
+          {
+            "id": "5",
+            "nz": "24小时救援",
+            "ne": "HOT_24",
+            "code": "02",
+            "ctno": "事故救援: 18610795358 / 道路救援: 18610795358"
+          }
+        ],
+        "bpid": null,
+        "hstoutletid": null,
+        "rtlFmt": {
+          "id": "19",
+          "charVal": "BMW ST",
+          "textZh": "授权维修站",
+          "textEn": "BMW ST",
+          "display": 1
+        },
+        "serviceCodes": [
+          "11",
+          "03"
+        ]
+      }
+    ],
+    "totalNum": 22
+  },
+  "isSuccess": true,
+  "errorCode": null,
+  "errorMsg": null
+}

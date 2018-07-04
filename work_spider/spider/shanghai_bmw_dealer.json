@@ -1,0 +1,1513 @@
+{
+    "responseBody": {
+        "outlets": [
+            {
+                "id": "115",
+                "brand": "1",
+                "dealerId": "87",
+                "dpNo": "32075",
+                "cbuNo": "32075",
+                "ckdNo": "32076",
+                "nz": "上海宝诚中环汽车销售服务有限公司",
+                "ne": "Shanghai Baozen Zhonghuan Automotive Sales & Service Co., Ltd",
+                "az": "上海市宝山区长江西路999号，200431",
+                "ae": "No. 999, Changjiang West Road, Baoshan District, Shanghai, 200431",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-5699 6789",
+                "fax": "021-5699 2118",
+                "em": null,
+                "ws": "http://www.zhbaozen.bmw.com.cn/",
+                "wb": "http://weibo.com/zhbaozen",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.4680141283,
+                "ltb": 31.3457057853,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-56996789"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5699 9300"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "15026657210"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "021-56996789"
+                    },
+                    {
+                        "id": "3",
+                        "nz": "小钣喷",
+                        "ne": "PANEL_BEATER",
+                        "code": "01",
+                        "ctno": "134 8239 4843"
+                    },
+                    {
+                        "id": "4",
+                        "nz": "大客户",
+                        "ne": "CORPORATE_SALES",
+                        "code": "03",
+                        "ctno": "021-5699 6789-109"
+                    },
+                    {
+                        "id": "6",
+                        "nz": "优质回购",
+                        "ne": "BPS",
+                        "code": "20",
+                        "ctno": "021-5699 6789"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "9",
+                    "charVal": "5S",
+                    "textZh": "5S",
+                    "textEn": "5S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "05",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "142",
+                "brand": "1",
+                "dealerId": "113",
+                "dpNo": "36553",
+                "cbuNo": "36553",
+                "ckdNo": "36594",
+                "nz": "上海宝景汽车销售服务有限公司",
+                "ne": "Shanghai Baojing Automotive Sales & Service Co., Ltd.",
+                "az": "上海市闵行区莲花南路2268号 邮编：201108",
+                "ae": "No.2268, South Lianhua Road, Minhang District, Shanghai  201108",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-31837658",
+                "fax": "021 34734700",
+                "em": null,
+                "ws": "http://www.shbaojing.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.4336385728,
+                "ltb": 31.0792082112,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-31837658"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-31837658"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "事故救援: 13764250606 / 道路救援: 13764250606"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "139 1764 8903"
+                    },
+                    {
+                        "id": "4",
+                        "nz": "大客户",
+                        "ne": "CORPORATE_SALES",
+                        "code": "03",
+                        "ctno": "021-3409 1409"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "9",
+                    "charVal": "5S",
+                    "textZh": "5S",
+                    "textEn": "5S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "05",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "28764",
+                "brand": "1",
+                "dealerId": "10243",
+                "dpNo": "38260",
+                "cbuNo": "38260",
+                "ckdNo": "38269",
+                "nz": "上海绿地宝仕汽车销售服务有限公司",
+                "ne": "Shanghai Greenland Baoshi Automotive Sales & Service Co., Ltd.",
+                "az": "上海市杨浦区周家嘴路3388号",
+                "ae": "No. 3388, Zhoujiazui Road, Yangpu District, Shanghai City",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-55809900",
+                "fax": "021-65053821",
+                "em": null,
+                "ws": "http://www.baoshi.bmw.com.cn/",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.546165,
+                "ltb": 31.283446,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-5580 8999"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5580 9933"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "事故救援: 17321132522 / 道路救援: 18701926977"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "9",
+                    "charVal": "5S",
+                    "textZh": "5S",
+                    "textEn": "5S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "27790",
+                "brand": "1",
+                "dealerId": "10160",
+                "dpNo": "37947",
+                "cbuNo": "37947",
+                "ckdNo": "37948",
+                "nz": "上海上德宝骏汽车销售服务有限公司",
+                "ne": "Shanghai Shangde Baojun Automotive Sales & Service Co., Ltd.",
+                "az": "上海市浦东新区居家桥路571号",
+                "ae": "No.571,Jujiaqiao Road, Pudong New District, Shanghai",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-60659999",
+                "fax": "021-60659930",
+                "em": null,
+                "ws": "http://www.sdbj.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.571991,
+                "ltb": 31.259884,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-6065 9999"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-6065 9933"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "156 0161 9999"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "185 1665 6170"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "9",
+                    "charVal": "5S",
+                    "textZh": "5S",
+                    "textEn": "5S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "05",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "111",
+                "brand": "1",
+                "dealerId": "84",
+                "dpNo": "28399",
+                "cbuNo": "28399",
+                "ckdNo": "28422",
+                "nz": "上海宝诚汽车销售服务有限公司",
+                "ne": "Shanghai Baozen Automotive Sales & Service Co., Ltd",
+                "az": "上海浦东新区龙东大道2777号 邮编201203",
+                "ae": "No. 2777 Long Dong Avenue, Pudong New District, Shanghai 201203",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-5896 6789",
+                "fax": "021-5896 5007",
+                "em": "customer.care@baozen.bmw.com.cn",
+                "ws": "http://www.baozen.bmw.com.cn/",
+                "wb": "http://weibo.com/shanghaibaozen",
+                "moFrF": "8:30",
+                "moFrT": "17:00",
+                "satF": "9:00",
+                "satT": "16:00",
+                "sunF": "9:00",
+                "sunT": "16:00",
+                "lnb": 121.63633331308,
+                "ltb": 31.230080237238,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5896 2780"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "139 1880 9502"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "135 6470 7045"
+                    },
+                    {
+                        "id": "4",
+                        "nz": "大客户",
+                        "ne": "CORPORATE_SALES",
+                        "code": "03",
+                        "ctno": "021-5896 5008"
+                    },
+                    {
+                        "id": "6",
+                        "nz": "优质回购",
+                        "ne": "BPS",
+                        "code": "20",
+                        "ctno": "021-5896 6789"
+                    },
+                    {
+                        "id": "10",
+                        "nz": "M展区",
+                        "ne": "M_SECTOR",
+                        "code": "06",
+                        "ctno": null
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "06",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "40730",
+                "brand": "1",
+                "dealerId": "10650",
+                "dpNo": "42041",
+                "cbuNo": "42041",
+                "ckdNo": "42182",
+                "nz": "上海宝诚申江汽车销售服务有限公司",
+                "ne": "Shanghai Baozen Shenjiang Automotive Sales & Service Co., Ltd.",
+                "az": "上海市浦东新区申江路296号，201208",
+                "ae": "No. 296, Shenjiang Road, Pudong New District, Shanghai, 201208",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-31066789",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.sjbaozen.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.631234,
+                "ltb": 31.304319,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-3106 6789"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-3102 7180"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "13816444110"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "06",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "147",
+                "brand": "1",
+                "dealerId": "118",
+                "dpNo": "36550",
+                "cbuNo": "36550",
+                "ckdNo": "36587",
+                "nz": "上海宝景星诚汽车销售服务有限公司",
+                "ne": "Shanhai Baojing Xingcheng Automotive Sales & Service Co., Ltd.",
+                "az": "上海市松江区北松公路7168号 邮编：201611",
+                "ae": "No. 7168 Beisong Road, Songjiang District, Shanghai 201611",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": " 021-57775519",
+                "fax": "021 67826986",
+                "em": null,
+                "ws": "http://www.shbaojingxc.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.2743756266,
+                "ltb": 31.0084148199,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-6781 9039"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "事故救援: 18321502499 / 道路救援: 18317192745"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "135 6447 8336"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "30",
+                "brand": "1",
+                "dealerId": "20",
+                "dpNo": "28403",
+                "cbuNo": "28403",
+                "ckdNo": "28425",
+                "nz": "上海宝信汽车销售服务有限公司",
+                "ne": "Shanghai Baoxin Automotive Sales & Service Co., Ltd",
+                "az": "上海市闵行区吴中路1786号 邮编201103",
+                "ae": "No.1786, Wuzhong Road,Shanghai 201103",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-3431 5555",
+                "fax": "021-3431 8110",
+                "em": null,
+                "ws": "http://www.baoxin.bmw.com.cn",
+                "wb": "http://weibo.com/shbx",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.373075,
+                "ltb": 31.176488,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-3431 5866"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "机修电话：18916137702 / 事故电话：18217292842"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "137 6163 1496"
+                    },
+                    {
+                        "id": "3",
+                        "nz": "小钣喷",
+                        "ne": "PANEL_BEATER",
+                        "code": "01",
+                        "ctno": "021-3431 5555"
+                    },
+                    {
+                        "id": "6",
+                        "nz": "优质回购",
+                        "ne": "BPS",
+                        "code": "20",
+                        "ctno": "021-3431 5555"
+                    },
+                    {
+                        "id": "8",
+                        "nz": "明悦晚间服务",
+                        "ne": "NIGHT_SERVICE",
+                        "code": "07",
+                        "ctno": null
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "37442",
+                "brand": "1",
+                "dealerId": "10533",
+                "dpNo": "40938",
+                "cbuNo": "40938",
+                "ckdNo": "40944",
+                "nz": "上海宝信行汽车销售服务有限公司",
+                "ne": "Shanghai Baoxinhang Automotive Sales & Service Co., Ltd.",
+                "az": "上海市普陀区真北路3489号",
+                "ae": "No. 3489, Zhenbei Road, Putuo District, Shanghai City",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-66117555",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.baoxinhang.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.404849,
+                "ltb": 31.28366,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-6611 7555"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-6611 2772"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "021-66112772 / 13918354627"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "138 1858 7209"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "200",
+                "brand": "1",
+                "dealerId": "163",
+                "dpNo": "36307",
+                "cbuNo": "36307",
+                "ckdNo": "36308",
+                "nz": "上海宝尊汽车服务有限公司",
+                "ne": "Shanghai Baozun Automotive Service Co., Ltd",
+                "az": "上海市闵行区浦江镇联航路1297号",
+                "ae": "NO.1297, Lianhang Road, Pujiang Town, Minhang District, Shanghai",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-55888555",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.shbaozun.bmw.com.cn",
+                "wb": "http://weibo.com/bmwbaozun",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.533019,
+                "ltb": 31.084852,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-5588 8669"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5588 6789"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "021-5588 6789"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "021-3478 9997"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "23",
+                "brand": "1",
+                "dealerId": "13",
+                "dpNo": "27357",
+                "cbuNo": "27357",
+                "ckdNo": "28973",
+                "nz": "上海德宝汽车服务有限公司",
+                "ne": "Shanghai Debao Motor Service Co., Ltd",
+                "az": "上海市闵行区华漕镇华翔路245号 邮编201105",
+                "ae": "No. 245 Huaxiang Road, Huacao Town, Minhang District, Shanghai. 201105",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-5227 5588",
+                "fax": "021-5227 6735",
+                "em": null,
+                "ws": "http://www.debao.bmw.com.cn",
+                "wb": "http://weibo.com/1892441891",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.327175313,
+                "ltb": 31.1803752849,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5227 5588-106"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "事故救援: 18301911958 / 道路救援: 4001013128"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "135 0196 9800"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "21",
+                "brand": "1",
+                "dealerId": "12",
+                "dpNo": "26564",
+                "cbuNo": "26564",
+                "ckdNo": "28173",
+                "nz": "上海凡德汽车销售服务有限公司",
+                "ne": "Shanghai Fande Automotive Sales & Service Co., Ltd.",
+                "az": "上海浦东新区沪南路2525号 邮编201315",
+                "ae": "No.2525 Hunan Road, Pudong xin District, Shanghai 201315",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-5812 8666 ",
+                "fax": "021-58129117",
+                "em": "admin@bowdex.bmw.com.cn",
+                "ws": "http://www.bowdex.bmw.com.cn",
+                "wb": "http://weibo.com/shanghaifandebmwmini",
+                "moFrF": "8:30",
+                "moFrT": "17:30",
+                "satF": "8:30",
+                "satT": "17:30",
+                "sunF": "8:30",
+                "sunT": "17:30",
+                "lnb": 121.5632553834,
+                "ltb": 31.1840036943,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-3121 5836"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "事故救援: 15216790079 / 道路救援: 8008208998"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "021-3121 5801"
+                    },
+                    {
+                        "id": "4",
+                        "nz": "大客户",
+                        "ne": "CORPORATE_SALES",
+                        "code": "03",
+                        "ctno": "021-3121 5802"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "05",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "55592",
+                "brand": "1",
+                "dealerId": "11047",
+                "dpNo": null,
+                "cbuNo": "45772",
+                "ckdNo": "45795",
+                "nz": "上海祺宝汽车销售服务有限公司",
+                "ne": "Shanghai Qibao Automotive Sales & Service Co., Ltd.",
+                "az": "上海市安亭镇安驰路666号，201805",
+                "ae": "No. 666, Anchi Road, Anting County, Shanghai, 201805",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-6950 2666",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.shqibao.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.178077,
+                "ltb": 31.29025,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-6950 2666 "
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-6950 2999 "
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "19921403656"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "04"
+                ]
+            },
+            {
+                "id": "296",
+                "brand": "1",
+                "dealerId": "253",
+                "dpNo": "35310",
+                "cbuNo": "35310",
+                "ckdNo": "35311",
+                "nz": "上海众国宝泓汽车销售服务有限公司",
+                "ne": "Shanghai Zhongguo Baohong Automotive Sales & Service Co., Ltd.",
+                "az": "上海市普陀区红柳路233号  邮编：200331",
+                "ae": "No. 233 Hongliu Road, Putuo District, Shanghai 200331",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-3636 6666",
+                "fax": "021-3636 6363",
+                "em": null,
+                "ws": "http://www.zgbaohong.bmw.com.cn",
+                "wb": "http://weibo.com/1923433123",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.36111901189,
+                "ltb": 31.298725348403,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-3636 6666"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-3636 5678"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "147 2193 5730"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "137 6108 2292"
+                    },
+                    {
+                        "id": "4",
+                        "nz": "大客户",
+                        "ne": "CORPORATE_SALES",
+                        "code": "03",
+                        "ctno": "021-3656 8023"
+                    },
+                    {
+                        "id": "8",
+                        "nz": "明悦晚间服务",
+                        "ne": "NIGHT_SERVICE",
+                        "code": "07",
+                        "ctno": null
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "1",
+                    "charVal": "4S",
+                    "textZh": "4S",
+                    "textEn": "4S",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11",
+                    "03",
+                    "04",
+                    "15",
+                    "05",
+                    "08",
+                    "20"
+                ]
+            },
+            {
+                "id": "39412",
+                "brand": "1",
+                "dealerId": "10581",
+                "dpNo": "41476",
+                "cbuNo": "41476",
+                "ckdNo": "41502",
+                "nz": "上海景宝汽车服务有限公司",
+                "ne": "Shanghai Jingbao Automotive Service Co., Ltd.",
+                "az": "上海市金山区亭卫公路2285号1幢",
+                "ae": "#1, No. 2285, Tingwei Road, Jinshan District, Shanghai City",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "86 021-31371800",
+                "fax": "86 021-37902618",
+                "em": "aftersales@shjingbao.bmw.com.cn",
+                "ws": null,
+                "wb": "http://weibo.com/u/5345712110",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.364528,
+                "ltb": 30.787186,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-3137 1816"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "事故救援: 021-31371816 / 道路救援: 021-31371819"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "5",
+                    "charVal": "SC",
+                    "textZh": "维修中心",
+                    "textEn": "SC",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11"
+                ]
+            },
+            {
+                "id": "42",
+                "brand": "1",
+                "dealerId": "30",
+                "dpNo": "35406",
+                "cbuNo": "35406",
+                "ckdNo": "35407",
+                "nz": "上海徐汇宝信汽车服务有限公司",
+                "ne": "Shanghai Xuhui Baoxin Automotive Service Co., Ltd.",
+                "az": "上海徐汇区龙吴路900号4幢 邮编：200232",
+                "ae": "Building 4, 900 Longwu Road, Xuhui District, Shanghai 200232",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-3469 3999",
+                "fax": "021-34690006",
+                "em": null,
+                "ws": "http://www.xhbaoxin.bmw.com.cn",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.45693009241,
+                "ltb": 31.157932451945,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-3469 6012"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "5",
+                    "charVal": "SC",
+                    "textZh": "维修中心",
+                    "textEn": "SC",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11"
+                ]
+            },
+            {
+                "id": "40612",
+                "brand": "1",
+                "dealerId": "10648",
+                "dpNo": "32075",
+                "cbuNo": "42120",
+                "ckdNo": "42121",
+                "nz": "上海宝诚中环汽车销售服务有限公司军工路分公司",
+                "ne": "Shanghai Baozen Zhonghuan Auto Sales & Service Co.,Ltd Jungong Rd Branch",
+                "az": "上海市宝山区逸仙路3718号C01-04",
+                "ae": "Building C01-04, No. 3718 Yixian Rd. Baoshan District, Shanghai",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-5699 6789",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.zhbaozen.bmw.com.cn",
+                "wb": "http://weibo.com/zhbaozen",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.508338,
+                "ltb": 31.356393,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-6618 0706"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "150 2665 7210"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "10",
+                    "charVal": "FLC",
+                    "textZh": "城市快修店",
+                    "textEn": "FLC",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11"
+                ]
+            },
+            {
+                "id": "43301",
+                "brand": "1",
+                "dealerId": "10798",
+                "dpNo": "26564",
+                "cbuNo": "43115",
+                "ckdNo": "43117",
+                "nz": "上海凡德汽车销售服务有限公司-中山南路分公司",
+                "ne": "Shanghai Fande Automotive Sales & Service Co., Ltd.-Zhongshan South Rd. Branch",
+                "az": "上海市黄浦区苗江路123号，200011",
+                "ae": "No. 123, Miaojiang Road, Huangpu District, Shanghai City, 200011",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-51210123",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.bowdex.bmw.com.cn",
+                "wb": "http://weibo.com/shanghaifandebmwmini",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.505828,
+                "ltb": 31.206553,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5121 0123"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "800 820 8998"
+                    },
+                    {
+                        "id": "8",
+                        "nz": "明悦晚间服务",
+                        "ne": "NIGHT_SERVICE",
+                        "code": "07",
+                        "ctno": null
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "10",
+                    "charVal": "FLC",
+                    "textZh": "城市快修店",
+                    "textEn": "FLC",
+                    "display": 1
+                },
+                "serviceCodes": [
+                    "11"
+                ]
+            },
+            {
+                "id": "34951",
+                "brand": "1",
+                "dealerId": "10460",
+                "dpNo": "39724",
+                "cbuNo": "39724",
+                "ckdNo": "39726",
+                "nz": "上海宝诚尊悦汽车销售服务有限公司",
+                "ne": "Shanghai Baozen Zunyue Automotive Sales & Service Co., Ltd",
+                "az": "上海市闸北区共和新路3550号      200435",
+                "ae": "No. 3550 Gonghexin Road Zhabei District shanghai  200435",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021 51216789",
+                "fax": null,
+                "em": null,
+                "ws": "http://bmwusedcar.bmw.com.cn/usedCar/world/shbc_opening.html",
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.454795,
+                "ltb": 31.307545,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "15902188184"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-31273386"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "18221600095"
+                    },
+                    {
+                        "id": "1",
+                        "nz": "贷款购车",
+                        "ne": "FINANCIAL",
+                        "code": "12",
+                        "ctno": "021-51216789"
+                    },
+                    {
+                        "id": "3",
+                        "nz": "小钣喷",
+                        "ne": "PANEL_BEATER",
+                        "code": "01",
+                        "ctno": "13764703738"
+                    },
+                    {
+                        "id": "6",
+                        "nz": "优质回购",
+                        "ne": "BPS",
+                        "code": "20",
+                        "ctno": "021-51216789"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "22",
+                    "charVal": "UCC",
+                    "textZh": "UCC",
+                    "textEn": "UCC",
+                    "display": null
+                },
+                "serviceCodes": [
+                    "11",
+                    "20"
+                ]
+            },
+            {
+                "id": "10674",
+                "brand": "1",
+                "dealerId": "12",
+                "dpNo": "26564",
+                "cbuNo": "26564",
+                "ckdNo": "28173",
+                "nz": "上海凡德汽车销售服务有限公司沪南路分公司",
+                "ne": "Shanghai Fande Automobile sales & Service Co., Ltd.",
+                "az": "上海市沪南路2502号",
+                "ae": "No.2502 Hunan Road, Shanghai",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-31271088",
+                "fax": "021-58129117",
+                "em": null,
+                "ws": null,
+                "wb": null,
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.571229,
+                "ltb": 31.15765,
+                "eRetail": false,
+                "priBizs": [
+
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "20",
+                    "charVal": "OCU SR",
+                    "textZh": "OCU SR",
+                    "textEn": "OCU SR",
+                    "display": null
+                },
+                "serviceCodes": [
+
+                ]
+            },
+            {
+                "id": "37497",
+                "brand": "1",
+                "dealerId": "10536",
+                "dpNo": "40947",
+                "cbuNo": "40947",
+                "ckdNo": "40949",
+                "nz": "上海普陀宝泓二手车销售服务有限公司",
+                "ne": "Shanghai Putuo Baohong Used Car Sales&Service Co.,Ltd.",
+                "az": "上海市普陀区金沙江路2087号",
+                "ae": "No.2087 Jinshajiang Road, Putuo District,Shanghai City",
+                "pv": "ccccc647341",
+                "ct": "c2105747523",
+                "tel": "021-5269 8855",
+                "fax": null,
+                "em": null,
+                "ws": "http://www.ptbaohongucc.bmw.com.cn",
+                "wb": "http://weibo.com/ptbaohong",
+                "moFrF": null,
+                "moFrT": null,
+                "satF": null,
+                "satT": null,
+                "sunF": null,
+                "sunT": null,
+                "lnb": 121.377121,
+                "ltb": 31.24134,
+                "eRetail": false,
+                "priBizs": [
+                    {
+                        "id": "7",
+                        "nz": "销售热线 ",
+                        "ne": "SALES",
+                        "code": "09",
+                        "ctno": "021-5269 8855"
+                    },
+                    {
+                        "id": "2",
+                        "nz": "预约快修",
+                        "ne": "FAST_LANE",
+                        "code": "11",
+                        "ctno": "021-5269 8989"
+                    },
+                    {
+                        "id": "5",
+                        "nz": "24小时救援",
+                        "ne": "HOT_24",
+                        "code": "02",
+                        "ctno": "181 2112 1270"
+                    }
+                ],
+                "bpid": null,
+                "hstoutletid": null,
+                "rtlFmt": {
+                    "id": "22",
+                    "charVal": "UCC",
+                    "textZh": "UCC",
+                    "textEn": "UCC",
+                    "display": null
+                },
+                "serviceCodes": [
+                    "11",
+                    "20"
+                ]
+            }
+        ],
+        "totalNum": 21
+    },
+    "isSuccess": true,
+    "errorCode": null,
+    "errorMsg": null
+}

@@ -106,7 +106,7 @@ def parse():
             print('%s完成' % district)
 
 
-def shop_detail(url,item):
+def shop_detail(url, item):
     url = openrice_host + url
     shop_id = url.rsplit('-r')[-1]
     response = request.get(url)
